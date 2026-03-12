@@ -2,7 +2,8 @@
 
 2024-2  성균관대학교 데이터분석 학회 DScover 메인 프로젝트 E조
 
-프로젝트 진행과정 및 후기: https://blog.naver.com/develop0420/224185038369
+프로젝트 분석 및 진해 과정은 블로그에 자세하게 정리되어있습니다.
+  <br/> 블로그: https://blog.naver.com/develop0420/224185038369
 
 ## Contributors
 SKKU 강이레, 박서은, 박호진, 박효정
